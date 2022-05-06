@@ -1,3 +1,3 @@
 # TestHaiendoCienciaAbierta_Jorge
 Prueba
-Hola Ignacio
+Conflicto solucionado
