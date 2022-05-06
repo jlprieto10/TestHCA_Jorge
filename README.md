@@ -1,3 +1,3 @@
-# TestHaiendoCienciaAbierta_Jorge
+# TestHaciendoCienciaAbierta_Jorge
 Prueba
 Conflicto solucionado
